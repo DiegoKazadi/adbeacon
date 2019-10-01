@@ -1,0 +1,35 @@
+.obra {
+  margin: 0 auto;
+  display: block;
+  margin-top: 100px;
+  box-shadow: 0 1px 13px 0 black;
+}
+
+.desc {
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  padding: 18px;
+  margin-top: 17px;
+}
+
+footer {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 40px;
+}
+
+.btn-search {
+  background: #2d2d2d;
+  display: block;
+  border-radius: 50%;
+  padding: 15px;
+  margin: 0 30px;
+}
+
+footer img {
+  width: 50px;
+}
